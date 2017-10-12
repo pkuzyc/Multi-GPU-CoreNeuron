@@ -99,6 +99,6 @@ mpirun -np 8 --hostfile /home/mpiuser/cloud/mpi_hostfile ./coreneuron_multinode 
 
 Please make sure the client machine can access the share directory, otherwise the program will not run successfully.
 
-# Acknowledgements
+# Acknowledgement
 
 Many thanks to Joey Wang and Rita Zhang from NVIDIA China for help.
